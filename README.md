@@ -1,0 +1,1 @@
+# template_QT_StanfordCPPLib
